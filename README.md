@@ -25,5 +25,5 @@ Approach:
 
 •	Finally RDD containing badwords proportion is written into output file
 
-See the plot based on output data here
+See the plot based on output data in this folder
 
